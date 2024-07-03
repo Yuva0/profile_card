@@ -14,7 +14,7 @@ const ProfileCard = () => {
         Overflow and ChatGPT developer.
       </div>
       <button className="profile-card-contact">Contact me</button>
-      <div className="profile-card-links">
+      <div className="profile-card-links" style={{display:"flex", justifyContent:"center"}}>
         <span>
           <svg
             xmlns="http://www.w3.org/2000/svg"
